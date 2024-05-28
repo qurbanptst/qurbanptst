@@ -4,26 +4,19 @@
 /*=============== REMOVE MENU MOBILE ===============*/
 
 
-/*=============== SWIPER PROJECTS ===============*/
-
-
-/*=============== SWIPER TESTIMONIAL ===============*/
+/*=============== SHADOW HEADER ===============*/
 
 
 /*=============== EMAIL JS ===============*/
 
 
-/*=============== SCROLL SECTIONS ACTIVE LINK ===============*/
-
-
 /*=============== SHOW SCROLL UP ===============*/ 
+
+
+/*=============== SCROLL SECTIONS ACTIVE LINK ===============*/
 
 
 /*=============== DARK LIGHT THEME ===============*/ 
 
 
-/*=============== CHANGE BACKGROUND HEADER ===============*/
-
-
 /*=============== SCROLL REVEAL ANIMATION ===============*/
-

@@ -1,14 +1,15 @@
-# 💼 Responsive Personal Portfolio Website
-## [Watch it on youtube](https://youtu.be/5-_2z-DdWng)
-### 💼 Responsive Personal Portfolio Website
+# Responsive Portfolio Website Rian
+## [Watch it on youtube](https://youtu.be/-uQIBlaZ4P0)
+### Responsive Portfolio Website Rian
 
-- Responsive Personal Portfolio Website Design Using HTML CSS & JavaScript
-- Includes a light and dark theme.
+- Responsive Personal Portfolio Website Using HTML CSS & JavaScript
 - Contains animations when scrolling.
-- Includes a form to send emails.
+- Smooth scrolling in each section.
+- Includes a dark & light theme.
+- Sending emails in the contact section.
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
 
 ![preview img](/preview.png)
